@@ -7,3 +7,5 @@ It should look like this:
 Sam Harris => S.H
 
 Patrick Feeney => P.F
+
+Link to solution:  https://www.codewars.com/kata/abbreviate-a-two-word-name/train/javascript/5aa71ababa1bb5c732000092
